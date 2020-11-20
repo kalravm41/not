@@ -1,0 +1,1 @@
+fullFaceDescriptions = faceapi.resizeResults(fullFaceDescriptions)

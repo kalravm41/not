@@ -1,0 +1,1 @@
+faceapi.draw.drawLandmarks(canvas, fullFaceDescriptions)
